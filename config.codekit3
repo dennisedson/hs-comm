@@ -265,6 +265,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/static/images/dennis/IMG_0914.JPG": {
+		"ft": 16384,
+		"iS": 1332555,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/static/images/dennis/IMG_0914.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/static/images/dennis/incentive.jpg": {
 		"ft": 16384,
 		"iS": 2660799,
